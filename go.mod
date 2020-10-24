@@ -1,4 +1,4 @@
-module gotest
+module github.com/liangyuyi/gotest
 
 go 1.15
 

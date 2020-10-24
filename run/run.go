@@ -1,6 +1,6 @@
 package run
 
-import "gotest/base"
+import "github.com/liangyuyi/gotest/base"
 
 func Result(str string) int {
 	a := base.GetA(str)

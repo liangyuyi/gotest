@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"gotest/run"
+	"github.com/liangyuyi/gotest/run"
 )
 
 func main() {
